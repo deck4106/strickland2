@@ -4,12 +4,12 @@
 # Site settings
 
 # title of site appears in banner
-title: Oral History (as) Data
+title: Test site
 # tagline appears in banner
-tagline: analyze and publish coded oral history and qualitative interviews
+tagline: just testing out the site
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Lib-Static Oral History / Qualitative Interview Analysis Tool, Analyze and publish transcriptions with tagged csvs"
+description: "just making sure this works"
 # keywords appear in meta tags
 keywords: "university of idaho, oral history, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
